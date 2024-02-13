@@ -1,5 +1,32 @@
 # Keshika-portfolio
 IT Portfolio
 About Me: 
-I am Keshika Supakaran. I am from Jaffna. I finished my A/Ls at Jaffna Vembadi Girls' High School in the Biological Science stream. I was born on 19th June 2003. Currently, I am doing my Undergraduate in Biotechnology at SLIIT. 
-![IMG_9546](https://github.com/Keshika-19/Keshika-portfolio/assets/159929323/38847f6d-5443-4e64-803d-39919fae8d49)=50X50
+I am Keshika Supakaran. I am from Jaffna.  I was born on 19th June 2003.  
+<img src='https://github.com/Keshika-19/Keshika-portfolio/assets/159929323/38847f6d-5443-4e64-803d-39919fae8d49' width='250' height='250'>
+
+<h2>Educational Qualification:</h2>
+I have finished my A/Ls at Jaffna Vembadi Girls' High School in the Biological Science stream. Currently, I am doing my Undergraduate in Biotechnology at SLIIT.
+
+<h2>Skills:</h2>
+<ul>
+  <li>Leadership</li>
+  <li>Creativity</li>
+  <li>Innovative thinking</li>
+  <li>Communication</li>
+  <li>Investigative</li>
+  <li>Problem-solving</li>
+</ul>
+
+<h2>Hobbies:</h2>
+<ul type="square">
+<li>Reading books</li>
+<li>Photography</li>
+<li>Learning new things</li>
+<li>Painting</li>
+</ul>
+
+<h2>Resume:</h2>
+<a href=http:///C:/Users/User/Documents/kesh/resume%20new.pdf>My Resume</a>
+
+<h2>Contact Details:</h2>
+E-mail Address: kesh1906kc@gmail.com
