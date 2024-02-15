@@ -1,8 +1,9 @@
 <html>
 <body>
 <h1><p align=center><ins>Keshika Supakaran</ins></p> </h1>
-<p align=center><b><i>Medical Laboratory Researcher.</i></b></p><br>
-<p align=center>A passionate, self-motivated individual who is seeking a medical laboratory researcher position.</p><br>
+<p align=center><b><i>Medical Laboratory Researcher</i></b></p><br>
+<p align=center>A passionate, self-motivated individual who is seeking a medical laboratory researcher position.</p>
+<p align=center>Eager to have experience in both hospital and private laboratory environments.</p>
 
 <h2>Personal Info: </h2>
 <b>Full Name:</b> Keshika Supakaran. <br> 
