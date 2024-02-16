@@ -57,7 +57,7 @@ Explore local hospitals, research institutions, and healthcare NGOs.
 </ul>
 
 <h2>Resume:</h2>  <!--Link for the resume of the applicant-->
-<a href=http:///C:/Users/User/Documents/kesh/resume%20new.pdf>My Resume</a>
+<a href="http:///C:/Users/User/Documents/kesh/resume%20new.pdf">My Resume</a>
 
 <h2>Contact Details:</h2>  <!--Contact details of the applicant-->
 <b>E-mail Address:</b> kesh1906kc@gmail.com <br>
