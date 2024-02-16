@@ -1,6 +1,8 @@
 <html>
 <body>
+    
 <h1><p align=center><ins>Keshika Supakaran</ins></p> </h1> <!--Name of the Applicant-->
+
 <p align=center><b><i>Medical Laboratory Researcher</i></b></p><br><!--Job title-->
 <p align=center>A passionate, self-motivated individual who is seeking a medical laboratory researcher position.</p><!--Self-description-->
 <p align=center>Eager to have experience in both hospital and private laboratory environments.</p>
